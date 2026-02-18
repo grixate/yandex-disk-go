@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This package is the legacy `v1` SDK surface.
+> The refactored `v2` SDK is available under [`/v2`](./v2).
+> Migration guide: [`/v2/MIGRATION.md`](./v2/MIGRATION.md)
+
 <p style="background: white; padding: 25px 0px 0px 0px" align="center">
     <a href="https://disk.yandex.com/" target="_blank" rel="noopener">
         <img src="https://yastatic.net/s3/auth2/_/logo-red_en.1d255bcb.svg" alt="Yandex.Disk" width="400" height="200"/> 
